@@ -1,6 +1,6 @@
 ---
-layout: post
+layout: default
 title: My first blog post
 ---
 
-Hello everione this is my first post
+This is my second post try on this post
